@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amrithajeya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! My name is Amritha and I am a highly driven young professional with a skillset of problem solving, analysis and strong attention to detail. 
+I am currently in my final year of studying a double degree in Applied Finance and Business Analytics at Macquarue University and hope to utilise my business analytics skills in the field of finance and investment. 
+[LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/)
+
+
 
 <!---
 amrithajeya/amrithajeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

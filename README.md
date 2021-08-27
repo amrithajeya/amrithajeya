@@ -8,9 +8,9 @@
 
 **Some other fun facts about me:**
 - I have my roots in Sri Lanka 🇱🇰, born in New Zealand 🇳🇿, raised in Papua New Guinea 🇵🇬 and now an Australian citizen 🇦🇺. 
-- I am an animal lover 🐨 
-- I love travelling and learning about different parts of the world 🌏   
-- I enjoy working with disadvantaged communities in my free time 💛
+- I am an animal lover 🐨. 
+- I love travelling and learning about different parts of the world 🌏.   
+- I like to spend my free time working with disadvantaged communities 💛.
 
 **How you can contact me:**
 

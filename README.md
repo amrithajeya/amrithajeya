@@ -2,6 +2,8 @@ Hi there! My name is Amritha and I am a highly driven young professional with a 
 I am currently in my final year of studying a double degree in Applied Finance and Business Analytics at Macquarue University and hope to utilise my business analytics skills in the field of finance and investment. 
 [LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/)
 
+you can view my repository on past assignments completed in my Business Analytics degree [here](https://github.com/amrithajeya/Business-Analytics-Assignments) 
+
 
 
 <!---

@@ -3,7 +3,7 @@
 **Here are a few facts about me:** 
 - 📍 I am based in Sydney, Australia.
 - 👩‍💼 I currently work as an Accounts Intern at Cochlear.  
-- 👩‍🎓 I am currently in my last year of my Bachelor of Applied Finance and Bachelor of Business Analytics at Macquarie University; you can view my past work in my Business Analytics degree [here](https://github.com/amrithajeya/Business-Analytics-Assignments "Amritha's Business Analytics Repository")  
+- 👩‍🎓 I am currently study a Bachelor of Applied Finance and Bachelor of Business Analytics at Macquarie University; you can view my past work in my Business Analytics degree [here](https://github.com/amrithajeya/Business-Analytics-Assignments "Amritha's Business Analytics Repository").  
 - 💛 In my job, most of my time is spent ensuring quality control in statutory and management reports, performing analytical procedures on journals and preparing a monthly reconciliation of the company's corporate credit card account. 
 
 **Some other fun facts about me:**
@@ -13,7 +13,7 @@
 - I enjoy working with disadvantaged communities in my free time 💛
 
 **How you can contact me:**
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/ "Amritha's LinkedIn") or can reach me on email at amrithajeya@gmail.com.  
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/ "Amritha's LinkedIn") or can reach me on email at amrithajeya@gmail.com 🙂.  
 
 
 

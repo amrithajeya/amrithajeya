@@ -12,11 +12,9 @@
 - I love travelling and learning about different parts of the world 🌏.   
 - I like to spend my free time working with disadvantaged communities 💛.
 
-**How you can contact me:**
+**How you can reach me:**
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/ "Amritha's LinkedIn") or reach me on email at amrithajeya@gmail.com 🙂.  
-
-
 
 <!---
 amrithajeya/amrithajeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

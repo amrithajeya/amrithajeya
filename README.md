@@ -13,7 +13,8 @@
 - I enjoy working with disadvantaged communities in my free time 💛
 
 **How you can contact me:**
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/ "Amritha's LinkedIn") or can reach me on email at amrithajeya@gmail.com 🙂.  
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/ "Amritha's LinkedIn") or reach me on email at amrithajeya@gmail.com 🙂.  
 
 
 

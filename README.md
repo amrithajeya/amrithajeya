@@ -12,11 +12,8 @@
 - I love travelling and learning about different parts of the world 🌏   
 - I enjoy working with disadvantaged communities in my free time 💛
 
-
-
-[LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/ "Amritha's LinkedIn")
-
-you can view my repository on past assignments completed in my Business Analytics degree [here](https://github.com/amrithajeya/Business-Analytics-Assignments "Amritha's Business Analytics Repository") 
+**How you can contact me:**
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/amrithajeyarathan/ "Amritha's LinkedIn") or can reach me on email at amrithajeya@gmail.com.  
 
 
 

@@ -7,7 +7,7 @@
 - 💛 In my job, most of my time is spent ensuring quality control in statutory and management reports, performing analytical procedures on journals and preparing a monthly reconciliation of the company's corporate credit card account. 
 
 **Some other fun facts about me:**
-- I have my roots in Sri Lanka 🇱🇰, born in New Zealand 🇳🇿, raised in Papua New Guinea 🇵🇬 and now an Australian citizen 🇦🇺. 
+- I am of Sri Lankan ethnicity 🇱🇰, born in New Zealand 🇳🇿, raised in Papua New Guinea 🇵🇬 and now an Australian citizen 🇦🇺. 
 - I am an animal lover 🐨. 
 - I love travelling and learning about different parts of the world 🌏.   
 - I like to spend my free time working with disadvantaged communities 💛.

@@ -1,10 +1,9 @@
 ### Hello and welcome to my profile! 👋 
 
 **Here are a few facts about me:** 
-- 📍 I am based in Sydney, Australia.
-- 👩‍💼 I currently work as an Accounts Intern at Cochlear.  
+- 📍 I am based in Sydney, Australia.  
 - 👩‍🎓 I am currently studying a Bachelor of Applied Finance and Bachelor of Business Analytics at Macquarie University; you can view some of my past work in my Business Analytics degree [here](https://github.com/amrithajeya/Business-Analytics-Assignments "Amritha's Business Analytics Repository").  
-- 💛 In my job, most of my time is spent ensuring quality control in statutory and management reports, performing analytical procedures on journals and preparing a monthly reconciliation of the company's corporate credit card account. 
+- 💛 Over the past two years, most of my time has been spent ensuring quality control in statutory and management reports, performing analytical procedures on journals and preparing a monthly reconciliation of the company's corporate credit card account. 
 
 **Some other fun facts about me:**
 - I am of Sri Lankan ethnicity 🇱🇰, born in New Zealand 🇳🇿, raised in Papua New Guinea 🇵🇬 and now an Australian citizen 🇦🇺. 
